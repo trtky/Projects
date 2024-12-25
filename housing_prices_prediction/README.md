@@ -36,6 +36,6 @@ Comparision between predicted and true prices:
 
 The R2 Score is different with every run. That is because every time the program is run the model will be trained from scratch.
 
-The closer the R2 score is to 1, the better the model can predict. The maximum I could get was a R2 score of O.6
+The closer the R2 score is to 1, the better the model can predict. The maximum I could get was a R2 score of 0.6
 
 

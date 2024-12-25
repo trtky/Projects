@@ -17,4 +17,16 @@ This model can differentiate between 8 classes, two traffic light states and 6 t
 - OvertakingProhibited
 
 
-![Screenshot 2024-12-25 152633](https://github.com/user-attachments/assets/bdf8d884-b234-4584-87f5-51c9a9186d44)
+Here are some examples: 
+![Screenshot 2024-12-25 152633](https://github.com/user-attachments/assets/d38443ee-682b-4681-9bdf-c4db228277a2)
+
+
+![Screenshot 2024-12-25 152735](https://github.com/user-attachments/assets/e3020ab0-852b-4655-bda1-7e6150c84066)
+
+
+![Screenshot 2024-12-25 152909](https://github.com/user-attachments/assets/37097592-795f-4599-9c88-c147ff156ea5)
+
+
+![Screenshot 2024-12-25 153120](https://github.com/user-attachments/assets/0d7adc50-e9f8-448f-b43a-8c958df34ae0)
+
+

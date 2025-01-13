@@ -12,10 +12,11 @@
 - Then the algorithm chooses k random samples from the dataset, those will be centers of the cluster.
   and applies the algorithm with the following steps:
 
-   1.) Calculate the distance from the other datapoint to the centers 
-   2.) Calculate the mean point of the datapoints that belong to the same cluster. The mean points are the center of the cluster respectively
-
-- Step 1 and 2 are repeated until the mean points dont change anymore
+   1.) Calculate the distance from the other datapoint to the centers \\
+   2.) Each data point is assigned to the nearest centroid \\
+   3.) Calculate the mean point of the datapoints that belong to the same cluster. The mean points are the center of the cluster respectively \\
+   
+- Step 1 to 3 are repeated until the mean points dont change anymore
 
 - For every k, a so called intertia is getting calculated, after the algorithm has finished. Inertia is an error metric
   

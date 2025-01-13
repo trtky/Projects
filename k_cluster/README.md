@@ -17,4 +17,6 @@
 
 - Step 1 and 2 are repeated until the mean points dont change anymore
 
--  
+- For every k, a so called intertia is getting calculated, after the algorithm has finished. Inertia is an error metric
+  
+- The best k can be selected by using the elbow method: We plot the intertia over k and selected the k where we have the first bend

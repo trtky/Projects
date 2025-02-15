@@ -1,5 +1,6 @@
-In this streamlit project the user can filter out Smartphones from a Dataset by Brand, Model and Color
-After the user input, the filtered out Dataset is shown and in addition sale diagrams are plotted
+- In this streamlit project the user can filter out Smartphones from a Dataset by Brand, Model and Color
+
+- After the user input, the filtered out Dataset is shown and in addition sale diagrams are plotted
 
 ![image](https://github.com/user-attachments/assets/f2bf3992-79cf-40ad-9a52-6c7561ea8b4d)
 
